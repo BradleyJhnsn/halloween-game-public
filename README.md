@@ -1,6 +1,6 @@
 --- DESCRIPTION ---
 
-A personal project made in GameMaker in just 3 days. It is a Halloween-themed arcade-style game about catching a ghost with your flashlight.
+A personal project made in GameMaker in just 5 days. It is a Halloween-themed arcade-style game about catching a ghost with your flashlight.
 
 
 --- INSTRUCTIONS ---
